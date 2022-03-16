@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @KubiakJakub01
+- 👋 Hi, I’m @KubiakJakub01 I'm a student of Military University of Technology (WAT) in field Computer Science (4th semester) 
 - 👀 I’m interested in data science and Big Data
 - 🌱 I’m currently learning Spark, Tensorflow and Plotly 
 - 💞️ I’m looking to collaborate on internship in data science  
