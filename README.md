@@ -4,6 +4,7 @@
 - 💞️ I’m looking to collaborate on internship in data science  
 - 📫 How to reach me: 
 kubiak.jakub01@gmail.com
+https://www.linkedin.com/in/jakub-kubiak-38a961234/
 
 <!---
 KubiakJakub01/KubiakJakub01 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
