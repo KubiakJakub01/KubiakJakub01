@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @KubiakJakub01 I'm a student of Military University of Technology (WAT) in field Computer Science (4th semester) 
-- 👀 I’m interested in data science and Big Data
-- 🌱 I’m currently learning Spark, Tensorflow and Plotly 
-- 💞️ I’m looking to collaborate on internship in data science  
+- 👋 Hi, I’m @KubiakJakub01 I work at Samsung R&D as a NLP engineer
+- 👀 I’m interested in machine learning especially NLP and ASR
+- 🌱 I’m currently learning Tensorflow, HuggingFace and PyTorch 
+- 💞️ I'm a student of Military University of Technology (WAT) in field Computer Science (5th semester) 
 - 📫 How to reach me: 
 kubiak.jakub01@gmail.com
 https://www.linkedin.com/in/jakub-kubiak-38a961234/
