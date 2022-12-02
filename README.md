@@ -4,7 +4,7 @@
 - 💞️ I'm a student of Military University of Technology (WAT) in field Computer Science (5th semester) 
 - 📫 How to reach me: 
 kubiak.jakub01@gmail.com
-https://www.linkedin.com/in/jakub-kubiak-38a961234/
+https://www.linkedin.com/in/jakub-kubiak3/
 
 <!---
 KubiakJakub01/KubiakJakub01 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
