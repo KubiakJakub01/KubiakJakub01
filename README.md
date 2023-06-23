@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @KubiakJakub01 I work at Samsung R&D as a NLP engineer
-- 👀 I’m interested in machine learning especially NLP and RL
+- 👀 I’m interested in machine learning especially NLP, ASR and RL
 - 🌱 I’m currently learning Tensorflow, HuggingFace and PyTorch 
 - 💞️ I'm a student of Military University of Technology (WAT) in field Computer Science (6th semester) 
 - 📫 How to reach me: 
